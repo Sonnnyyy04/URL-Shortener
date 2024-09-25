@@ -1,5 +1,5 @@
-It's my project URl-Shortener allows resize your URL more less
-Rules of usage
+It's my project URl-Shortener allows resize your URL more less<br/>
+Rules of usage<br/>
 1)You need clone my repository into your local folder using the command git clone
 2)Start program 
 3)You have 2 options "POST" and "GET" URLS. If you need write your URL into data base, you should prepare your url and using services for testing http write JSON file with url and alias and send the request.
